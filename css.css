@@ -1,0 +1,12 @@
+body {background-color: #0070b0; text-align: center;  font-family: 'Questrial', sans-serif; font-size: 24px; color: #ffa200}
+.title{ font-family: 'Comfortaa', cursive; color:#ffc800; font-size: 64px}
+.subtitle {font-family: 'comfortaa', cursive; color: #ffc800; font-size: 35px}
+#hr1 {border: 6.5px dashed #ba0000 }
+    #p1 {max-width: 975px; margin: 25px; font-size:24px; line-height: 1.3; text-align: center; margin-left:437px; color:white}
+.hp1 {color:#630200}
+.line {height: 6px; width: 70px; background-color:darkred; margin: 8px auto; margin-top: 49px}
+.endcap {font-family: 'Source Code Pro', monospace; color: white; font-size: 26px}
+.link {float: none; color:crimson; font-family: 'Open Sans Condensed', sans-serif; font-size: 20px; list-style: none}
+.link:hover {font-size:30px; color: crimson}
+.menu {color: crimson}
+#flag {width: 25%; height: 25%}
